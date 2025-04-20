@@ -63,6 +63,7 @@ Then scan the QR code using the **Expo Go** app on your mobile device.
 - TMDB API
 - Appwrite
 - React Navigation
+- Tailwind CSS (via Nativewind)
 - TypeScript (optional)
 
 ---
