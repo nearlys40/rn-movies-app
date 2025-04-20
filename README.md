@@ -43,7 +43,7 @@ This project requires a `.env` file for Appwrite configuration.
 
 📩 To receive the environment file, please send an email to:
 
-**visut.savansuk@gmail.com**
+**visut.savangsuk@gmail.com**
 
 > Note: For security reasons, the `.env` file is not included in the repository.
 
@@ -72,7 +72,7 @@ Then scan the QR code using the **Expo Go** app on your mobile device.
 
 For environment file access or other inquiries, feel free to contact:
 
-**visut.savansuk@gmail.com**
+**visut.savangsuk@gmail.com**
 
 ---
 
